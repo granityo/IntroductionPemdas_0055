@@ -6,18 +6,3 @@ int main()
     // langkah 1
     int luas, panjang, lebar;
 
-    // langkah 2
-    cout << "Masukkan Panjang : ";
-    cin >> panjang;
-
-    // langkah 3
-    cout << "Masukkan Lebar : ";
-    cin >> lebar;
-
-    // langkah 4
-    luas = panjang * lebar;
-
-    // langkah 5
-    cout << "Hasilnya : " << luas;
-    
-}
